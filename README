@@ -1,1 +1,13 @@
 Contains sample C++ programs that demonstrate C++ features, basic data structure usecases and typical sort, search  algorithms
+
+NB: git tip: To checkout to the most recent commited changes
+$ git checkout -- .
+
+
+NB: git tip: Adding a new project to github 
+Step 1) Create and intitialize your local git
+Step 2) Create an empty repository in gihub, note down its github clone URL: https://github.com/ajayjoshy/CPlusPlusDataStructuresAlgorithms.git
+Step 3) Add a remote repo named  "origin" to the local repo created in Step 1)
+$ git remote add origin https://github.com/ajayjoshy/CPlusPlusDataStructuresAlgorithms.git
+Step 4) Push your branch("master") to Github
+$ git push origin master
